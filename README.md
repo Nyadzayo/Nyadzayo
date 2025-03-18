@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Kelvin Nyadzayo:
 👋 About Me<br>I’m a software engineer with expertise in blockchain, AI/ML, and full-stack development. Currently pursuing a Master of Science in AI at the University of Cape Town (UCT), I am passionate about building scalable and impactful technology solutions.<br><br>🔹 What I Do<br>AI & ML – Exploring AI/ML applications in education, ethical AI, and finance, with a focus on algorithm transparency and accountability.<br><br>Blockchain & Web3 – Developing tokenization platforms, stablecoins, DeFi apps, and cross-chain solutions.<br><br>Full-Stack Development – Building robust web apps using React, Node.js, TypeScript, Firestore, and AWS.<br><br>Fintech & Payments – Working on remittance solutions using Ripple, Hyperledger Fabric, and ERC-1155 token standards.<br>
 
 
